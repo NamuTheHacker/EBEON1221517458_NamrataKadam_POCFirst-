@@ -1,12 +1,3 @@
-
-
-
-
-
-
-Ans:-
-
-
 1 . Concept of Class and Object
 i. Write a program to create ‘Student’ class with rollNo and name as two instance 
 variables.
